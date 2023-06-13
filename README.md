@@ -21,3 +21,4 @@
 <br>
 <img src="https://img.shields.io/badge/-Discord%20%28demozz%239445%29-5865F2?style=flat&logo=discord&logoColor=white"/>
 [![Steam](https://img.shields.io/badge/-Steam%20%28Click%29-000000?style=flat&logo=Steam&logoColor=white)](https://steamcommunity.com/id/demozzsecacc/)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=demozzik&theme=cobalt)](https://git.io/streak-stats)
