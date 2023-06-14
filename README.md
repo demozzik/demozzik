@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=NPM&logoColor=white"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/-PHP-1572B6?style=flat&logo=PHP&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code%20Insiders-22b59d?style=flat&logo=Visual%20Studio%20Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=GitHub&logoColor=white"/>
