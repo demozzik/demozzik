@@ -2,9 +2,7 @@
 <br>
 <br>
 <img src="https://img.shields.io/badge/-LUA-00007C?style=flat&logo=lua&logoColor=white"/>
-<img src="https://img.shields.io/badge/-SQL-F29111?style=flat&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
-<img src="https://img.shields.io/badge/-jQuery-0865a6?style=flat&logo=jquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Node.js-026E00?style=flat&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=NPM&logoColor=white"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
